@@ -1,0 +1,41 @@
+{
+  "clientes": [
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 138198313,
+      "email": "karen@karen.com",
+      "empresa": "CRM Company"
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@josue.com",
+      "empresa": "CRM Company"
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "emai": "miguel@miguel.com",
+      "empresa": "CRM Company"
+    },
+    {
+      "id": "897c",
+      "nombre": "Pedro",
+      "empresa": "css",
+      "email": "pedroaraoz1999@gmail.com",
+      "telefono": "+5491130091999",
+      "notas": "Quiere un CRM"
+    },
+    {
+      "nombre": "Alberto",
+      "empresa": "compax",
+      "email": "elprofejuliocba@hotmail.com",
+      "telefono": "01141775479",
+      "notas": "Quiere un ecommerce ",
+      "id": "c9ce"
+    }
+  ]
+}
